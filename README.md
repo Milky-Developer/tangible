@@ -1,4 +1,4 @@
-<img src="https://github.com/Milky-Developer/tangible/releases/download/0/icons8-orange-100.png" alt="tangible-logo" align="right" />
+<img src="https://github.com/Milky-Developer/tangible/blob/master/docs/icons8-orange-100.png?raw=true" alt="tangible-logo" align="right" />
 
 # 🔸🔶 Tangible 🔶🔸
 *XFCE4 for Windows 10 based on the blazing fast WSL 2 and bundled with custom material design themes to emulate the likes of ChromeOS, Android and Fuchsia's interactive Material Design.* <sub><sup>lolwut?????</sup></sub>
